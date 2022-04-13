@@ -1,4 +1,4 @@
-const contractAddress = "0x2CD9f34fb3bB7C15CD7e8DFB0f43f8738D33a82f"; //Replace with your own contract address
+const contractAddress = "0x71B83cF10A009576FAC54BBfE5B7ea7432e8B08D"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Graveyard Motel NFT Project!!";
